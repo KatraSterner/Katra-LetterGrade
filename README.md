@@ -1,5 +1,7 @@
 # Katra-LetterGrade
-dotnet application using svelte front end.
+ASP.NET application using svelte front end to convert 
+an entered percentage grade to a letter grade by 
+accessing an API from a Svelte form. 
 ## How to Start Project:
 ### Solution and Projects
 ```
